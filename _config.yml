@@ -15,8 +15,8 @@ author: AnonymousPlanet
 theme: jekyll-theme-hacker
 github:
   home_url: index.html
-  pdf_url: guide.pdf
-  odt_url: guide.odt
+  pdf_url: export/guide.pdf
+  odt_url: export/guide.odt
   guide_url: guide.html
   donations_url: donations.html
   changelog_url: CHANGELOG.html
