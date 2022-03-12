@@ -15,13 +15,15 @@ if [[ "$1" == "" ]]; then
 	for f in ./*; do
 		echo "Signing: $f"
 		# verify with `minisign -Vm <file> -P RWQ0WYJ07DUokK8V/6LNJ9bf/O/QM9k4FSlDmzgEeXm7lEpw3ecYjXDM`
-#		gpg --armor --sign "$f"
+		gpg --armor --sign "$f"
 		yes '' | minisign -S -s /home/user/.minisign/minisign.key -m "$f"
 	done
 	cd ../
 	sha256sum *.md > sha256sum.txt
+	gpg --armor --sign sha256sum.txt
 	yes '' | minisign -S -s /home/user/.minisign/minisign.key -m sha256sum.txt
 	b2sum *.md > b2sum.txt
+	gpg --armor --sign b2sum.txt
 	yes '' | minisign -S -s /home/user/.minisign/minisign.key -m b2sum.txt
 	echo "Signed all files."
 	echo "Done."
