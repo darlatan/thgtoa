@@ -6,6 +6,7 @@ This guide is an open-source non-profit initiative, [licensed](LICENSE.html) und
 
 **If you'd like to make a donation to help this project, you can do so from [here](donations.html) where you'll also find the project goals. All the donations will be strictly used within the context of this project. All donations and spendings are logged on the donations page.**
 
+**[View the guide](guide.html)**
 Mirrors:
 - Main: <https://anonymousplanet-ng.org>
 
