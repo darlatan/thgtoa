@@ -5782,7 +5782,7 @@ I will help you bit by listing a few tips I learned while researching over the y
 
 -   Result (see Online because PDFs do not work well with embedded media):
 
-![](/media/after.gif)
+![](media/after.gif)
 
 Slight issue tho: **MyHeritrage.com bans Tor Exit nodes so you might have again to consider VPN over Tor for this.**
 

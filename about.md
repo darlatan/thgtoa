@@ -1,3 +1,10 @@
+Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.
+
+I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.
+
+Her original about page can be found here:
+---
+
 Hello,
 
 I'm just a simple anonymity and privacy activist. Pota...Sorry...This project is my passion.
