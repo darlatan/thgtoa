@@ -6,7 +6,12 @@ This guide is an open-source non-profit initiative, [licensed](LICENSE.html) und
 
 **If you'd like to make a donation to help this project, you can do so from [here](donations.html) where you'll also find the project goals. All the donations will be strictly used within the context of this project. All donations and spendings are logged on the donations page.**
 
-**[View the guide](guide.html)**
+
+**View the guide:**
+- [In your browser](guide.html)
+- [PDF](export/guide.pdf)
+- [OpenDocument (ODT)](export/guide.odt)
+- [Markdown](guide.md)
 
 Mirrors:
 - Main: <https://anonymousplanet-ng.org>
@@ -32,17 +37,11 @@ The guide and all the files are also readily available on Archive.org and Archiv
 
 Feel free to submit issues using Github Issues with the repository link above. Criticism, opinions, and ideas are welcome!
 
-Follow or contact me on: 
-- Twitter: <https://twitter.com/AnonyPla>
-- Mastodon: <https://mastodon.social/@anonypla>
-- Element/Matrix.org: ```@anonypla:anonymousplanet.org``` 
-- Reddit: <https://old.reddit.com/message/compose/?to=AnonyPla>
-- E-Mail: <contact@anonymousplanet.org> (feel free to encrypt your messages using either GPG or Minisign)
+Follow or contact me on:
 
 Discussion Channels:
 - Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
 - Matrix space: ```#privacy-security-anonymity:matrix.org``` <https://matrix.to/#/#privacy-security-anonymity:matrix.org>
-- Github Discussions: <https://github.com/AnonymousPlanet/thgtoa/discussions>
 
 Have a good read and feel free to share and/or recommend it!
 
