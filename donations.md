@@ -17,16 +17,12 @@ Here is the address:
 
 - **_The donation address has changed due to unfortunate recent events_**
 
-![][1]
-
 **Donate using Bitcoin (BTC):**
 
 Here are the addresses:
 
 - SegWit address: **_The donation address has changed due to unfortunate recent events_**
 - Legacy address: **_The donation address has changed due to unfortunate recent events_**
-
-![][2]____________________![][3]
 
 **Thank you for any contribution. All donations will be mentioned within this file.**
     

@@ -8,7 +8,7 @@ Version 1.1.3-pre1, January 2022 by Anonymous Planet
 
 **There might be some wrong or outdated information in this guide because no human is omniscient, and humans do make mistakes.** **Please do not take this guide as a definitive gospel or truth because it is not. Mistakes have been written in the guide in earlier versions and fixed later when discovered. There are likely still some mistakes in this guide at this moment (hopefully few). Those are fixed as soon as possible when discovered.**
 
-**This guide has been moved, due to recent unfortunate events. The old guide was at [anonymousplanet.org](https://web.archive.org/web/20220227172123/https://anonymousplanet.org/), but has since been moved to <anonymousplanet-ng.org>**
+**This guide has been moved, due to recent unfortunate events. The old guide was at [anonymousplanet.org](https://web.archive.org/web/20220227172123/https://anonymousplanet.org/), but has since been moved to anonymousplanet-ng.org**
 
 **Your experience may vary.** **Remember to check regularly for an updated version of this guide.**
 
