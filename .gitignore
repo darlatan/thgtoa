@@ -1,0 +1,12 @@
+*.pdf
+*.html
+*.odt
+*.minisig
+*.pdf.minisig
+*.html.minisig
+*.odt.minisig
+*.yml.minisig
+sha256sum.txt
+sha256sum.txt.minisig
+b2sum.txt
+b2sum.txt.minisig
