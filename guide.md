@@ -9251,21 +9251,7 @@ Consider helping others (see [Helping others staying anonymous][Helping others s
 
 **This project has no funding or sponsoring, and donations are more than welcome.**
 
-See current goals and donate at <https://anonymousplanet-ng.org/donations.html> <sup>[[Mirror]][557]</sup> <sup>[[Archive.org]][558]</sup> <sup>[[Tor Mirror]][559]</sup> or directly by sending Monero (XMR) to this Address: ```4549BGJrEPBfpiPRL9CVGzGMgJnC1Dzf8EXLVfY8Ukrnj7LzkTV611dGf9tuQHiSQjbixsNWiffNiV5fPB3LkyF7UXi3vwQ```
-
-![][560]
-
-**(Please do verify the checksum and GPG signature of this file for authenticity, this is explained in the README of the repository if you do not know how to do that)**.
-
-**Bitcoin (BTC) to these addresses:**
-
--   SegWit Address: ```bc1qtall24j005qsd3dw8wahxhvged4vepn9fjp3my```
-
--   Legacy Address: ```17jYYV1x92fm9EVDbHuQjS5t9Qc44533Jw```
-
-Note that these addresses are being changed at each release, but the old ones are still valid.
-
-![][561]____________________![][562]
+See: <https://anonymousplanet-ng.org/donations.html>
 
 **(Please do verify the checksum and GPG signature of this file for authenticity, this is explained in the README of the repository if you do not know how to do that)**.
 
