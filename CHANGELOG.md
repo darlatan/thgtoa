@@ -1,7 +1,13 @@
 - Fix link to video "How to Hack a Turned-Off Computer, [..]"
 
+v1.1.3
+- Added dedicated section about gait recognition and other long-range biometric techniques
+- Updated PDF toolchain to allow embedding images in the PDF guide
+
 v1.1.3-pre1
 - Updating info to reflect the new identity being used to publich the guide
+- Attempted to reconstruct toolchain to generate PDF and ODT guides
+
 v1.1.2
 - Removed SIM/Virtual Numbers providers not accepting at least XMR from the guide as there are sufficient providers accepting XMR
 - Added some more free SMS providers in the guide
