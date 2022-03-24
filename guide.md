@@ -2,7 +2,7 @@
 
 (Or "How I learned to start worrying and love ~~privacy~~ anonymity")
 
-Version 1.1.3-pre1, January 2022 by Anonymous Planet
+Version 1.1.3, January 2022 by Anonymous Planet
 
 **This guide is a work in progress**. While I am doing the best I can to correct issues, inaccuracies, and improve the content, general structure, and readability; it will probably never be "finished".
 
@@ -1086,7 +1086,13 @@ Here are a few resources for even trying this yourself:
 
 -   Bellingcat, Digital Research Tutorial: Geolocating (Allegedly) Corrupt Venezuelan Officials in Europe <https://www.youtube.com/watch?v=bS6gYWM4kzY> <sup>[[Invidious]][112]</sup>
 
+### Gait Recognition and Other Long-Range Biometrics
+
 Even if you are not looking at the camera, they can still figure out who you are[^161], make out your emotions[^162], analyze your gait[^163]'[^164]'[^165], read your lips[^166], analyze the behavior of your eyes[^167], and probably guess your political affiliation[^168]'[^169].
+
+Contrary to popular belief and pop culture, modern gait recognition systems aren't fooled by simply changing how you walk (ex. with something uncomfortable in your shoe), as they analyze the way your body's muscles move across your entire body, as you perform certain actions. The best way to fool modern gait recognition is to wear loose clothes that obscure the way your muscles move as you perform actions.
+
+Other things than can be used to identify you include your earlobes, which are actually more identifiable than fingerprints, or even the shape of your skull. As such, soft headcoverings such as balaclavas are not recommendable for obscuring your identity - they make you look incredibly suspicious, while also conforming to the shape of your skull.
 
 ![][113]
 
@@ -1140,7 +1146,9 @@ At this time, there are a few steps[^198] you can use to mitigate (and only miti
 
 -   Consider wearing special sunglasses (expensive, unfortunately) called "Reflectacles" <https://www.reflectacles.com/> <sup>[[Archive.org]][122]</sup>. There was a small study showing their efficiency against IBM and Amazon facial recognition[^201].
 
--   All that might still be useless because of gait recognition mentioned earlier[^163] but there might be hope here if you have a 3D Printer: <https://gitlab.com/FG-01/fg-01> <sup>[[Archive.org]][123]</sup>
+-   All that might still be useless because of gait recognition mentioned earlier but there might be hope here if you have a 3D Printer: <https://gitlab.com/FG-01/fg-01> <sup>[[Archive.org]][123]</sup>
+
+(see [Gait Recognition and Other Long-Range Biometrics])
 
 (Note that if you intend to use these where advanced facial recognition systems have been installed, these measures could also flag as you as suspicious by themselves and trigger a human check)
 
@@ -1877,6 +1885,8 @@ See [Appendix A2: Guidelines for passwords and passphrases].
 ##### Get a burner phone:
 
 This is rather easy. Leave your smartphone on and at home. Have some cash and go to some random flea market or small shop (ideally one without CCTV inside or outside and while avoiding being photographed/filmed) and just buy the cheapest phone you can find with cash and without providing any personal information. It only needs to be in working order.
+
+*A note regarding your current phone:* The point of leaving your smartphone on is to create avoid leaking the fact that you're not using the device. If a smartphone is turned off, this creates a metadata trail that can be used to correlate the time your smartphone was turned off with the activation of your burner. If possible, leave your phone doing something (for example, watching YouTube on auto-play) to obscure the metadata trail further. This will not make it impossible to correlate your inactivity, but may make it more difficult if your phone's usage patterns can look convincing while you buy your burner.
 
 I would recommend getting an old "dumbphone" with a removable battery (old Nokia if your mobile networks still allow those to connect as some countries phased out 1G-2G completely). This is to avoid the automatic sending/gathering of any telemetry/diagnostic data on the phone itself. You should never connect that phone to any Wi-Fi.
 
@@ -10069,6 +10079,8 @@ When conducting sensitive activities, remember that:
 
 -   **Consider leaving your smart devices at home online and doing something (watching YouTube/Netflix or something similar) instead of taking them with you powered off. This will mitigate tracking efforts but also create digital traces that could indicate you were at home.**
 
+Addititionally, if using a smartphone as a burner, know that they send a lot of diagnostics by default. Enough to potentially identify you based on your device usage patterns (a technique known as biometric profiling). You should avoid using your burner unless absolutely necessary, to minimize the information that can be collected and used to identify you.
+
 **Lastly, you should also consider this useful sheet from the NSA about Smartphone security: <https://web.archive.org/web/20210728204533/https://s3.documentcloud.org/documents/21018353/nsa-mobile-device-best-practices.pdf>.**
 
 **Note: Please do not consider commercial gimmicky all-in devices for anonymity. The only way to achieve proper OPSEC is by doing it yourself. See those examples to see why it is not a clever idea:**
@@ -10095,7 +10107,7 @@ In addition, I will also mention a newcomer to watch: Safing SPN <https://safing
 
 Personally, for now, I would recommend Mullvad due to personal experience.
 
-**I would not recommend ProtonVPN as much because they do require an e-mail for registration unlike Mullvad, iVPN, and Safing.**
+**I would not recommend ProtonVPN as much because they do require an e-mail for registration unlike Mullvad, iVPN, and Safing. Proton also has a tendency to require phone number verification for users who register over Tor.**
 
 How does this work?
 
@@ -10116,6 +10128,7 @@ How does this work?
 For extra-security consider:
 
 -   Wearing gloves while manipulating anything to avoid leaving fingerprints[^470] and touch DNA[^471].
+  - A less-obvious alternative could be to put super glue on your fingertips, to avoid making it obvious you're wearing gloves. However, this can prevent effective use of touchscreens, as well as failing to as effectively prevent you from touch DNA. Also, if spotted, it can be quite suspicious to be caught with super glue on your fingers.
 
 -   Do not use any material/currency that was manipulated by someone that can be related to you in any way.
 
@@ -10128,6 +10141,9 @@ For extra-security consider:
 -   Make sure there are no obvious DNA traces in or on the materials (like hairs).
 
 -   Consider doing the whole operation outdoor to reduce the risks of residual DNA traces from your environment or you contaminating the materials.
+  - The more people frequent a space, the lower the risk, as your DNA will be obscured by the DNA of other people as they pass through
+
+- Security cameras can be a risk. Try to cover your face. Also, gait recognition may be a concern. See [Gait Recognition and Other Long-Range Biometrics]
 
 **Do not in any circumstance use this new VPN account unless instructed or connect to that new VPN account using your known connections. This VPN will only be used later in a secure way as we do not trust VPN providers' "no-logging policies". This VPN provider should ideally never know your real origin IP (your home/work one for instance).**
 

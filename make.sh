@@ -14,8 +14,9 @@ if [[ "$1" == "" ]]; then
 	echo "Calculated hashes. Signing generated files..."
 	for f in ./*; do
 		echo "Signing: $f"
-		# verify with `minisign -Vm <file> -P RWQ0WYJ07DUokK8V/6LNJ9bf/O/QM9k4FSlDmzgEeXm7lEpw3ecYjXDM`
+		# verify with GPG
 		gpg --armor --sign "$f"
+		# verify with `minisign -Vm <file> -P RWQ0WYJ07DUokK8V/6LNJ9bf/O/QM9k4FSlDmzgEeXm7lEpw3ecYjXDM`
 		yes '' | minisign -S -s /home/user/.minisign/minisign.key -m "$f"
 	done
 	cd ../
@@ -32,11 +33,10 @@ fi
 
 bn="$1"
 
-echo "Generating PDF..."
-pandoc --self-contained "$bn".md -o export/"$bn".pdf -t ms --metadata title="The Hitchhiker's Guide to Online Anonymity"
 echo "Generating HTML..."
 pandoc --self-contained "$bn".md -o export/"$bn".html --metadata title="The Hitchhiker's Guide to Online Anonymity"
+echo "Generating PDF..."
+pandoc --self-contained "$bn".md -o export/"$bn".pdf --metadata title="The Hitchhiker's Guide to Online Anonymity" -t context
 echo "Generating ODT..."
 pandoc --self-contained "$bn".md -o export/"$bn".odt --metadata title="The Hitchhiker's Guide to Online Anonymity"
-#pandoc --self-contained -t slidy guide.md -o guide.pdf
-#markdown guide.md > guide.html
+
