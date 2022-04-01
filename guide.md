@@ -840,7 +840,7 @@ There are some not so straightforward ways[^107] to disable the Intel IME on som
 
 Note that to AMD's defense, so far and AFAIK, there were no security vulnerabilities found for ASP and no backdoors either: See <https://www.youtube.com/watch?v=bKH5nGLgi08&t=2834s> <sup>[[Invidious]][77]</sup>. In addition, AMD PSP does not provide any remote management capabilities contrary to Intel IME.
 
-If you are feeling a bit more adventurous, you could install your own BIOS using Libreboot or Coreboot [^108] if your laptop supports it (be aware that Coreboot does contain some propriety code unlike its fork Libreboot).
+If you are feeling a bit more adventurous, you could install your own BIOS using Libreboot or Coreboot[^108] if your laptop supports it (be aware that Coreboot does contain some propriety code unlike its fork Libreboot).
 
 In addition, some CPUs have unfixable flaws (especially Intel CPUs) that could be exploited by various malware. Here is a good current list of such vulnerabilities affecting recent widespread CPUs: <https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability> <sup>[[Wikiless]][78]</sup> <sup>[[Archive.org]][79]</sup>
 
