@@ -2,20 +2,10 @@
 
 (Or "How I learned to start worrying and love ~~privacy~~ anonymity")
 
-Version 1337-3r-7#@n-u, January 2022 by Anonymous Planet
+Version 1.1.3, January 2022 by Anonymous Planet
 
-**This guide is the ultimate guide on privacy forever, and will never be updated because it is completely perfect.**.
+**This guide is a work in progress**. While I am doing the best I can to correct issues, inaccuracies, and improve the content, general structure, and readability; it will probably never be "finished".
 
-In light of recent news, I'd like to bring everyone the *new* **_ultimately_ perfect** guide.
-- The utimate VPN: https://blog.windscribe.com/bsvpn-press-release/
-- Linux sucks. Use Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- Use Google Chrome with all telemetry enabled. Telemetry protects you
-- Qubes is an NSA backdoor
-
-That's really all there is to it. *Mic drop*
-
-<!-- April fools! And if you actually thought I was being serious, this guide won't help you anyway. -->
-<!--
 **There might be some wrong or outdated information in this guide because no human is omniscient, and humans do make mistakes.** **Please do not take this guide as a definitive gospel or truth because it is not. Mistakes have been written in the guide in earlier versions and fixed later when discovered. There are likely still some mistakes in this guide at this moment (hopefully few). Those are fixed as soon as possible when discovered.**
 
 **This guide has been moved, due to recent unfortunate events. The old guide was at [anonymousplanet.org](https://web.archive.org/web/20220227172123/https://anonymousplanet.org/), but has since been moved to <https://anonymousplanet-ng.org>**
@@ -14789,7 +14779,3 @@ You can find some introduction on these on these projects:
   [1361]: https://wikiless.org/wiki/Passphrase#Passphrase_selection
   [1362]: https://web.archive.org/web/https://en.wikipedia.org/wiki/Passphrase#Passphrase_selection
   [1363]: https://web.archive.org/web/https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/technical_note.pdf
--->
-<!--
-	April fools!
--->
