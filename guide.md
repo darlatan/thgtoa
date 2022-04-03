@@ -5472,11 +5472,19 @@ It is possible that those services (ProtonMail for instance) might require you t
 
 -   Envs.net: <https://envs.net/>
 
--   RiseUp: <https://riseup.net> <sup>[[Tor Mirror]][393]</sup> (It has come to my attention that the site now, unfortunately, requires an invitation from a current registered user)
-
 -   CTemplar: <https://ctemplar.com> (unfortunately also requires invitation)
 
 Keep in mind that those do not provide a zero-access design (meaning they can access your e-mail at rest in their database) where only you can access your e-mail.
+
+
+#### A note about Riseup:
+
+RiseUp's warrant canary has been renewed late, with their Twitter posting a cryptic message seeming to tell users not to trust them.
+Due to the suspicious situation, this guide can no longer recommend them.
+
+*Also see: <https://forums.whonix.org/t/riseup-net-likely-compromised/3195>*
+
+<sub>For the <https://riseup.net> [[Tor Mirror]][393] (It has come to my attention that the site now, unfortunately, requires an invitation from a current registered user)</sub>
 
 #### Protecting your anonymous online identities e-mails using Aliasing services:
 
@@ -11415,7 +11423,9 @@ If none of those build-in methods are working, you could try getting a manual br
 
 This website obviously could be blocked/monitored too so you could instead (if you have the ability) ask someone to do this for you if you have a trusted contact and some e2e encrypted messaging app.
 
-Finally, you could also request a bridge request by e-mail to <bridges@torproject.org> with the subject empty and the body being: "get transport obfs4" or "get transport meek". There is some limitation with this method tho as it is only available from a Gmail e-mail address or a Riseup.net (<https://riseup.net/> <sup>[[Tor Mirror]][393]</sup>) e-mail address.
+Finally, you could also request a bridge request by e-mail to <bridges@torproject.org> with the subject empty and the body being: "get transport obfs4" or "get transport meek". There is some limitation with this method tho as it is only available from a Gmail e-mail address or Riseup.
+
+- See: [A note about Riseup:] Riseup has potentially been compromised. Use it at your own risk.
 
 Hopefully, these bridges should be enough to get you connected even in a hostile environment.
 
