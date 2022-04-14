@@ -6,8 +6,8 @@ All donations and spendings are being logged here below for transparency.
 
 <span style="color: red">***Current donation goals:***</span>
 
-- Maintenance for the Tor Exit Nodes, see them here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>
-- Move the Tor .onion hosting on a different cheaper VPS by April 1st, 2022, and extend hosting for 2 more years.
+- ~Maintenance for the Tor Exit Nodes, see them here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>~ (Nodes taken down)
+- ~Move the Tor .onion hosting on a different cheaper VPS by April 1st, 2022, and extend hosting for 2 more years.~ (Onion mirror taken down)
 - Set-up more Tor Exit nodes if funding allows it.
 - Open to new suggestions for new possibilities if funding allows it.
 
