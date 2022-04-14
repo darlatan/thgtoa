@@ -16,8 +16,13 @@ This guide is an open-source non-profit initiative, [licensed](LICENSE.html) und
 Mirrors:
 - Main: <https://anonymousplanet-ng.org>
 
-Direct downloads:
-- CryptPad.fr *(outdated)* at: <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
+The guide and all the files are also readily available on Archive.org and Archive.today: 
+
+- Archive.org: <https://web.archive.org/web/https://anonymousplanet-ng.org/>
+- Archive.today: <https://archive.fo/anonymousplanet-ng.org/>
+- Archive.today over Tor: <http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/anonymousplanet-ng.org/>
+
+If you want to access/see the original/legacy project, please see the [legacy resources](legacy.html) page.
 
 If you want to see the changes between your PDF and the latest PDF, you could use one of these tools (I do not endorse those):
 
@@ -26,12 +31,6 @@ If you want to see the changes between your PDF and the latest PDF, you could us
 - <https://draftable.com/compare>
 
 If you want to compare an older ODT file with a newer one, use the LibreWriter compare features as explained here: <https://help.libreoffice.org/7.1/en-US/text/shared/guide/redlining_doccompare.html>
-
-The guide and all the files are also readily available on Archive.org and Archive.today: 
-
-- Archive.org *(outdated)*: <https://web.archive.org/web/https://anonymousplanet.org/>
-- Archive.today *(outdated)*: <https://archive.fo/anonymousplanet.org/>
-- Archive.today over Tor *(outdated)*: <http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/anonymousplanet.org/>
 
 **If you want to check the files for integrity, safety, authenticity, please refer to this ["How To"](verify.html).**
 
