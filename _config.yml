@@ -42,4 +42,5 @@ social:
 include: 
     - LICENSE.md
     - about.md
+    - briar.md
     - .well-known
