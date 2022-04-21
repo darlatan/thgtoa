@@ -4,6 +4,8 @@
 
 Version 1.1.3, January 2022 by Anonymous Planet
 
+**[IMPORTANT RECOMMENDATION FOR UKRAINIANS. ВАЖЛИВА РЕКОМЕНДАЦІЯ ДЛЯ УКРАЇНЦІВ](briar.html)**
+
 **This guide is a work in progress**. While I am doing the best I can to correct issues, inaccuracies, and improve the content, general structure, and readability; it will probably never be "finished".
 
 **There might be some wrong or outdated information in this guide because no human is omniscient, and humans do make mistakes.** **Please do not take this guide as a definitive gospel or truth because it is not. Mistakes have been written in the guide in earlier versions and fixed later when discovered. There are likely still some mistakes in this guide at this moment (hopefully few). Those are fixed as soon as possible when discovered.**
@@ -11775,7 +11777,7 @@ If you do nothave a word processor available or don't want to use one, you can a
 
 **Disclaimer: a study archived here: <https://web.archive.org/web/20181125133942/https://www.cs.drexel.edu/~sa499/papers/adversarial_stylometry.pdf> seems to indicate the translation technique is inefficient to prevent stylometry. This step might be useless.**
 
-After being done with spelling and grammar fixes. Use a website or software such as Google Translate (or for a more privacy-friendly version, <https://translate.metalune.xyz>) to translate between several different languages before translating back to your original language. These translations back and forth will alter your messages and make fingerprinting more difficult.
+After being done with spelling and grammar fixes. Use a website or software such as Google Translate (or for a more privacy-friendly version, <https://simplytranslate.org/>) to translate between several different languages before translating back to your original language. These translations back and forth will alter your messages and make fingerprinting more difficult.
 
 ### Search and replace:
 
