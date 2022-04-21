@@ -19,7 +19,6 @@ All the links below are listed in alphabetical order.
 - EFF Surveillance Self-Defense <https://ssd.eff.org/>
 - Prism-Break <https://prism-break.org/>
 - Privacy Guides <https://privacyguides.org>
-- Privacy Tools <https://privacytools.io> 
 - Techlore <https://techlore.tech> 
 - The New Oil <https://thenewoil.org> 
 
