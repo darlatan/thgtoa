@@ -1,3 +1,6 @@
+- Addition of a legacy resources page for the old archives
+- Changes in the about page to reflect the current situation
+- Changes in the donation page to reflect the current situation
 - Fix link to video "How to Hack a Turned-Off Computer, [..]"
 
 v1.1.3

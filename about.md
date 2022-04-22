@@ -23,15 +23,14 @@ Some facts about me:
 
 Please share this project if you enjoy it and think it might be useful to others.
 
-Follow or contact me on: 
+~Follow or contact me on:~ 
 - Twitter: <https://twitter.com/AnonyPla>
-- Mastodon: <https://mastodon.social/@anonypla>
-- Element/Matrix.org: ```@anonypla:tchncs.de``` **(@anonypla:matrix.org and @anonypla:envs.net are currently out of order)**
-- Reddit: <https://old.reddit.com/message/compose/?to=AnonyPla>
-- E-Mail: <contact@anonymousplanet.org>
+- Mastodon: ~<https://mastodon.social/@anonypla>~ (account deleted or disabled)
+- Element/Matrix.org: ~```@anonypla:tchncs.de``` **(@anonypla:matrix.org and @anonypla:envs.net are currently out of order)**~ (account disabled)
+- Reddit: ~<https://old.reddit.com/message/compose/?to=AnonyPla>~ (account deleted)
+- E-Mail: ~<contact@anonymousplanet.org>~ (DNS MX records removed)
 
 Discussion Channels:
 - Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
 - Matrix space: ```#privacy-security-anonymity:matrix.org``` <https://matrix.to/#/#privacy-security-anonymity:matrix.org>
-- Discord (bridged with Matrix): <https://discord.gg/V8dmd9y7mt>
 - Github Discussions: <https://github.com/AnonymousPlanet/thgtoa/discussions>
