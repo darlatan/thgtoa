@@ -1,8 +1,8 @@
-<del> Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. <del>It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.
+<del> Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.</del>
 
-I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.
+<del>I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.</del>
 
-Her original about page can be found here: </del>
+<del> Her original about page can be found here: </del>
 ---
 
 Hello I'm back,
