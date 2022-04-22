@@ -1,5 +1,7 @@
 Welcome.
 
+**[IMPORTANT RECOMMENDATION FOR UKRAINIANS. ВАЖЛИВА РЕКОМЕНДАЦІЯ ДЛЯ УКРАЇНЦІВ](briar.html)**
+
 This is a maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities. <span style="color: red">**It is written with hope for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed, censored, harassed anywhere!**</span>
 
 This guide is an open-source non-profit initiative, [licensed](LICENSE.html) under **Creative Commons Attribution-NonCommercial 4.0 International** ([cc-by-nc-4.0] <sup>[[Archive.org]][1]</sup>) and is **not sponsored/endorsed by any commercial/governmental entity**. This means that you are free to use my guide for pretty much any purpose **excluding commercially** as long as you do attribute it.
