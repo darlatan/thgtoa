@@ -23,12 +23,12 @@ Some facts about me:
 
 Please share this project if you enjoy it and think it might be useful to others.
 
-~Follow or contact me on:~ 
+Follow or contact me on: 
 - Twitter: <https://twitter.com/AnonyPla>
-- Mastodon: ~<https://mastodon.social/@anonypla>~ (account deleted or disabled)
-- Element/Matrix.org: ~```@anonypla:tchncs.de``` **(@anonypla:matrix.org and @anonypla:envs.net are currently out of order)**~ (account disabled)
-- Reddit: ~<https://old.reddit.com/message/compose/?to=AnonyPla>~ (account deleted)
-- E-Mail: ~<contact@anonymousplanet.org>~ (DNS MX records removed)
+- Mastodon: <del><https://mastodon.social/@anonypla></del> (account deleted or disabled)
+- Element/Matrix.org: ```@anonylena:matrix.org``` **(@anonypla:tchncs.de, @anonypla:matrix.org, and @anonypla:envs.net are currently out of order)**~ (account disabled)
+  - Reddit: <del><https://old.reddit.com/message/compose/?to=AnonyPla></del> (account deleted)
+  - E-Mail: <del><contact@anonymousplanet.org></del> (DNS MX records removed)
 
 Discussion Channels:
 - Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
