@@ -1,11 +1,13 @@
-Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.
+<del> Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. <del>It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.
 
 I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.
 
-Her original about page can be found here:
+Her original about page can be found here: </del>
 ---
 
-Hello,
+Hello I'm back,
+
+**First I'll thank you immensely Alex for salvaging this and helping me. Thank you. Thank you so much.**
 
 I'm just a simple anonymity and privacy activist. Pota...Sorry...This project is my passion.
 
@@ -26,11 +28,11 @@ Please share this project if you enjoy it and think it might be useful to others
 Follow or contact me on: 
 - Twitter: <https://twitter.com/AnonyPla>
 - Mastodon: <del><https://mastodon.social/@anonypla></del> (account deleted or disabled)
-- Element/Matrix.org: ```@anonylena:matrix.org``` **(@anonypla:tchncs.de, @anonypla:matrix.org, and @anonypla:envs.net are currently out of order)**
+- Element/Matrix.org: ```@anonypla:envs.net``` **(@anonypla:tchncs.de, and @anonypla:matrix.org are currently out of order)**
   - Reddit: <del><https://old.reddit.com/message/compose/?to=AnonyPla></del> (account deleted)
-  - E-Mail: <del><contact@anonymousplanet.org></del> (DNS MX records removed)
+  - E-Mail: <del><contact@anonymousplanet.org></del> (DNS MX records removed and mail hosting deleted)
 
 Discussion Channels:
 - Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
 - Matrix space: ```#privacy-security-anonymity:matrix.org``` <https://matrix.to/#/#privacy-security-anonymity:matrix.org>
-- Github Discussions: <https://github.com/AnonymousPlanet/thgtoa/discussions>
+- Github Discussions: <https://github.com/AnonyPla-ng/thgtoa/discussions>
