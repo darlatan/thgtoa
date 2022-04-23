@@ -9,19 +9,18 @@ Hello I'm back,
 
 **First I'll thank you immensely Alex for salvaging this and helping me. Thank you. Thank you so much.**
 
-I'm just a simple anonymity and privacy activist. Pota...Sorry...This project is my passion.
+My name is Lena, I'm 22 years old, I'm Ukrainian from Kyiv. Online, I'm I'm just a simple anonymity and privacy activist.
+I also used to be an activist in real life for various causes and did my share of protests. I was forced to flee the country like many others, and for the moment reside in Germany.
 
-I strongly believe privacy should be a universal right and that anonymity should never become illegal. I don't want our lives to turn into Gattaca, Minority Report, Black Mirror, or 1984 (Too late for that one, I'm afraid). I do not want our laws and rights to become terms of services.
+I'm a firm supporter of human rights, equality, repect, I hate corruption, and now ... sorry but not sorry ... I seriously dislike Russians who still support Putin but in particular, I really hate pro-russian Chechnians who came to Ukraine for the sport as they are just savages to my eyes. This is my sole personal opinion.
+
+I also strongly believe privacy should be a universal right and that anonymity should never become illegal. I don't want our lives to turn into Gattaca, Minority Report, Black Mirror, or 1984 (Too late for that one, I'm afraid). I do not want our laws and rights to become terms of services.
 
 My goal is to bring accessible knowledge on these topics to the many and hopefully reach the few good people who really need it. In this specific case, I think the needs of the few outweigh the needs of the many.
 
 Some facts about me:
-- This might surprise you but I'm a woman. We exist in tech.
 - I am not rich.
 - I enjoy good memes, movies, series, and books (and I'm sure some of you will spot some of the many references to those in my project).
-- I am probably not where you think I might be.
-- I am probably not who you think I might be?
-- I cannot confirm nor deny anything I wrote here is true.
 
 Please share this project if you enjoy it and think it might be useful to others.
 
