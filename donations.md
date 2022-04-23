@@ -2,27 +2,29 @@ Donations to support this project are welcome as the funding of this project is 
 Those donations are mainly used to pay for Tor onion hosting (VPS), mail hosting, domain name registration, and to maintain/run Tor exit nodes. **No profit is ever being made**.
 All donations and spendings are being logged here below for transparency.
 
-**The donation address has changed due to recent unfortunate events. Please wait for a new donation address to be provided before donating.**
-
 <span style="color: red">***Current donation goals:***</span>
 
-- ~Maintenance for the Tor Exit Nodes, see them here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>~ (Nodes taken down)
-- ~Move the Tor .onion hosting on a different cheaper VPS by April 1st, 2022, and extend hosting for 2 more years.~ (Onion mirror taken down)
-- Set-up more Tor Exit nodes if funding allows it.
-- Open to new suggestions for new possibilities if funding allows it.
+- <del>Maintenance for the Tor Exit Nodes, see them here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26></del> (All have been taken down)
+- <del>Move the Tor .onion hosting on a different cheaper VPS by April 1st, 2022, and extend hosting for 2 more years.</del> (The VPS was taken down and the onion site is unavailable for the moment)
+- <del>Set-up more Tor Exit nodes if funding allows it.</del>
+- Recover the project and salvage what is possible
 
 **Donate anonymously using Monero (XMR):**
 
 Here is the address:
 
-- **_The donation address has changed due to unfortunate recent events_**
+- ```4549BGJrEPBfpiPRL9CVGzGMgJnC1Dzf8EXLVfY8Ukrnj7LzkTV611dGf9tuQHiSQjbixsNWiffNiV5fPB3LkyF7UXi3vwQ```
+
+![][1]
 
 **Donate using Bitcoin (BTC):**
 
 Here are the addresses:
 
-- SegWit address: **_The donation address has changed due to unfortunate recent events_**
-- Legacy address: **_The donation address has changed due to unfortunate recent events_**
+- SegWit address: ```bc1qtall24j005qsd3dw8wahxhvged4vepn9fjp3my```
+- Legacy address: ```17jYYV1x92fm9EVDbHuQjS5t9Qc44533Jw```
+
+![][2]____________________![][3]
 
 **Thank you for any contribution. All donations will be mentioned within this file.**
     
@@ -58,8 +60,14 @@ Donations log (UTC date/time):
 - 2021-12-16 01:16: 1 XMR (Special thanks for this very generous donation)
 - 2021-12-16 18:06: 0.017 XMR
 - 2022-01-09 17:54: 0.045918219893 XMR
+- 2022-01-15 17:35: 0.014 XMR
+- 2022-01-24 21:08: 0.010786 XMR
+- 2022-01-26 12:07: 0.010391 XMR
+- 2022-02-03 19:59: 0.013013984 XMR
+- 2022-02-18 17:27: 0.019 XMR
+- 2022-03-14 10:25: 0.0139887 XMR
 
-Total Monero donations received: **4.665926880358 XMR**
+Total Monero donations received: **4.734092580358 XMR**
 Total Bitcoin donations received: **1.89353 mBTC**
 
 Spendings log (UTC date):
@@ -82,8 +90,9 @@ Spendings log (UTC date):
 - 2021-10-18: 0.01952 XMR (+fees) for testing a new VPS hosting provider (Privex.io) for one month
 - 2021-10-30: 0.240787814495 XMR (+fees) for a Synapse Hosting VPS (12 months) with bots to help grow the community. This is a test program that will be converted into a Tor Exit Node in case of failure
 - 2022-01-01: 0.28055816111 XMR (+fees) for renewal 1 year of Tor Exit Node 02
+- 2022-02-02: 0.966793601024 XMR (+fees) for sponsoring a related external special project in line with the Universal Declaration of Human Rights (details will remain indisclosed to protect project members)
 
-Total Monero remaining: **1.426042793248 XMR**
+Total Monero remaining: **0.540400726224 XMR**
 Total Bitcoin remaining: **0 mBTC**
 
 [1]: media/monero.jpg
