@@ -1,8 +1,29 @@
-<del> Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started. It's unclear as of right now whether AnonyPla will be back, so I'm trying to continue her project while staying as true to her intentions as I can.</del>
+Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started.
 
-<del>I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.</del>
+---
+Unfortunately, the Lena died in surgery. She died peacefully asleep without suffering.
 
-<del> Her original about page can be found here: </del>
+Before her surgery she gave me access to her accounts to maintain the guide. I will be maintaining her guide, as well as running her Matrix space, from this point.
+
+As I said before, I cannot guarantee I'll do everything right, or how she would have done it, but I'm trying my best.
+---
+
+Please share this project if you enjoy it and think it might be useful to others.
+
+Follow or contact me on: 
+- Twitter: <https://twitter.com/AnonyPla>
+- Mastodon: <del><https://mastodon.social/@anonypla></del> (account deleted or disabled)
+- Element/Matrix.org: ```@anonypla:envs.net``` **(@anonypla:tchncs.de, and @anonypla:matrix.org are currently out of order)**
+  - Reddit: <del><https://old.reddit.com/message/compose/?to=AnonyPla></del> (account deleted)
+  - E-Mail: <del><contact@anonymousplanet.org></del> (DNS MX records removed and mail hosting deleted)
+
+Discussion Channels:
+- Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
+- Matrix space: ```#privacy-security-anonymity:matrix.org``` <https://matrix.to/#/#privacy-security-anonymity:matrix.org>
+- Github Discussions: <https://github.com/AnonyPla-ng/thgtoa/discussions>
+
+
+**The about page she set can be found here:**
 ---
 
 Hello I'm back,
