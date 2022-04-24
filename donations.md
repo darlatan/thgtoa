@@ -8,6 +8,7 @@ All donations and spendings are being logged here below for transparency.
 - <del>Move the Tor .onion hosting on a different cheaper VPS by April 1st, 2022, and extend hosting for 2 more years.</del> (The VPS was taken down and the onion site is unavailable for the moment)
 - <del>Set-up more Tor Exit nodes if funding allows it.</del>
 - Recover the project and salvage what is possible
+- **Help Fund Lena's cremation and fees (about 2000€ total so around 9 XMR today)**
 
 **Donate anonymously using Monero (XMR):**
 
