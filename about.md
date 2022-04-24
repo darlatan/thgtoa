@@ -1,7 +1,7 @@
 Hello, I am Alex. My pronouns are they/them. After unfortunate recent events, I have picked up maintenance of this guide in order to continue the project AnonyPla started.
 
 ---
-Unfortunately, the Lena died in surgery. She died peacefully asleep without suffering.
+Unfortunately, Lena died in surgery. She died peacefully asleep without suffering.
 
 Before her surgery she gave me access to her accounts to maintain the guide. I will be maintaining her guide, as well as running her Matrix space, from this point.
 
@@ -13,7 +13,7 @@ Please share this project if you enjoy it and think it might be useful to others
 Follow or contact me on: 
 - Twitter: <https://twitter.com/AnonyPla>
 - Mastodon: <del><https://mastodon.social/@anonypla></del> (account deleted or disabled)
-- Element/Matrix.org: ```@anonypla:envs.net``` **(@anonypla:tchncs.de, and @anonypla:matrix.org are currently out of order)**
+- Element/Matrix.org: <del>@anonypla:envs.net, @anonypla:tchncs.de, and @anonypla:matrix.org </del> (abandoned)
   - Reddit: <del><https://old.reddit.com/message/compose/?to=AnonyPla></del> (account deleted)
   - E-Mail: <del><contact@anonymousplanet.org></del> (DNS MX records removed and mail hosting deleted)
 
@@ -25,7 +25,7 @@ Discussion Channels:
 
 **The about page she set can be found here:**
 ---
-
+  
 Hello I'm back,
 
 **First I'll thank you immensely Alex for salvaging this and helping me. Thank you. Thank you so much.**
